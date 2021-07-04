@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-//test
+
     fun buNumberEvent(view:View){
         if(isNewOp){
             etShowNumber.setText("")
